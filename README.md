@@ -1,5 +1,6 @@
 # node_3 :taco:
 :taco:
+:sushi:
 
 TODO: Enter the cookbook description here.
 
